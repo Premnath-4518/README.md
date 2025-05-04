@@ -23,18 +23,19 @@
 
 ### 🛠️ Tools & Interests
 
-<img alt="Fusion 360" src="https://img.shields.io/badge/Fusion%20360-ED1C24?style=for-the-badge&logo=autodesk&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="25px"/>
-<img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" height="25px"/>
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25px"/>
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="LabVIEW" src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black" height="25px"/>
-<img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white" height="25px"/>
-<img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-DA1F26?style=for-the-badge&logo=solidworks&logoColor=white" height="25px"/>
-<img alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-F37726?style=for-the-badge&logo=autodesk&logoColor=white" height="25px"/>
-<img alt="Multisim" src="https://img.shields.io/badge/Multisim-00599C?style=for-the-badge&logo=ni&logoColor=white" height="25px"/>
-
+<p align="left">
+  <img alt="Fusion 360" src="https://img.shields.io/badge/Fusion%20360-ED1C24?style=for-the-badge&logo=autodesk&logoColor=white" height="25px"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="25px"/>
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" height="25px"/>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25px"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
+  <img alt="LabVIEW" src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black" height="25px"/>
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white" height="25px"/>
+  <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-DA1F26?style=for-the-badge&logo=solidworks&logoColor=white" height="25px"/>
+  <img alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-F37726?style=for-the-badge&logo=autodesk&logoColor=white" height="25px"/>
+  <img alt="Multisim" src="https://img.shields.io/badge/Multisim-00599C?style=for-the-badge&logo=ni&logoColor=white" height="25px"/>
+</p>
 ## ❤️ Let's get connected:
 
 <p><a href="https://www.linkedin.com/in/premnath-mv-792040290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
